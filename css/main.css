@@ -1,0 +1,83 @@
+
+body
+
+{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 110%;
+
+}
+
+header
+
+{
+
+    background-color: rgb(119, 136, 153);
+
+}
+
+nav
+
+
+{
+
+    background-color: rgb(135, 206, 250);
+
+}
+
+main
+
+{
+    background-color: rgb(235, 235, 238);
+
+    font-size: 130%;
+
+
+}
+
+footer
+
+{
+
+    background-color: rgb(176, 213, 201);
+
+}
+
+
+li
+
+{
+
+    display: inline-block;
+
+    width: auto;
+
+    padding: 10px;
+
+}
+
+
+h1
+
+{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(255, 254, 254);
+    
+
+}
+
+
+p
+
+{
+    
+    line-height: 90%;
+
+}
+
+
+
+
+
+
